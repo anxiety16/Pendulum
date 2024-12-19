@@ -30,3 +30,7 @@ Run the simulation by executing the following command: python Pendulum/pen.py
 
 This project is licensed under the MIT License.
 
+## Group Members
+ - Mahinay Jhonny V.
+ - Agustin Dindo D.
+ - Timbancaya Arjay
